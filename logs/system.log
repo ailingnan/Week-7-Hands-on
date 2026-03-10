@@ -1,0 +1,96 @@
+2026-03-10 00:24:02,680 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:24:02,680 - app - WARNING - DB initialization warning: Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:28:58,472 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:28:58,473 - app - WARNING - DB initialization warning: Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:28:58,477 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:28:58,478 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:28:58,479 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:28:58,479 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:28:58,481 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:29:14,915 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:29:14,916 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:29:14,917 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:29:14,917 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:29:14,919 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:29:15,938 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:29:15,939 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:29:15,939 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:29:15,940 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:29:15,942 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:18,570 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:18,570 - app - WARNING - DB initialization warning: Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:18,576 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:18,576 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:18,577 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:18,577 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:18,579 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:54,081 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:54,084 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:54,084 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:54,085 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:54,089 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:56,953 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:56,954 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:56,954 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:56,955 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:56,957 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:57,235 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:57,236 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:57,236 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:57,237 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:32:57,239 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:26,507 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:26,507 - app - WARNING - DB initialization warning: Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:26,512 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:26,512 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:26,513 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:26,513 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:26,515 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:35,964 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:35,965 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:35,966 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:35,966 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:35,968 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:37,018 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:37,019 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:37,019 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:37,020 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:37,022 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:38,036 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:38,037 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:38,037 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:38,038 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:35:38,040 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:36:34,266 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:36:34,266 - app - WARNING - DB initialization warning: Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:36:34,271 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:36:34,271 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:36:34,271 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:36:34,272 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:36:34,274 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:36:44,059 - agent_runner - ERROR - Agent execution failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-10 00:36:44,070 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:36:44,071 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:36:44,072 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:36:44,073 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:36:44,076 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:40:48,093 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:40:48,094 - app - WARNING - DB initialization warning: Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:40:48,110 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:40:48,111 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:40:48,112 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:40:48,118 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:40:48,130 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:40:51,314 - agent_runner - ERROR - Agent execution failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-10 00:40:51,330 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:40:51,332 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:40:51,333 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:40:51,335 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:40:51,344 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:41:01,041 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:41:01,043 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:41:01,043 - feature_store - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:41:01,044 - evaluator - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:41:01,046 - scheduler - ERROR - Missing RSA key file at configured path: /path/to/your/rsa_key.p8
+2026-03-10 00:49:13,554 - app - INFO - Database tables initialized successfully.
+2026-03-10 00:49:13,554 - app - INFO - Database tables initialized successfully.
