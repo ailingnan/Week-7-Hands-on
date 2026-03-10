@@ -28,3 +28,11 @@ bash scripts/run.sh
 # Windows
 scripts\run.bat
 ```
+
+## Team Contributions
+
+| Team Member | Role | Key Contributions |
+|-------------|------|------------------|
+| Ailing Nan | Project Lead & AI Systems Architect | Designed overall system architecture, implemented reproducible deployment pipeline, built agent orchestration system, integrated Snowflake RAG pipeline, implemented configuration management, logging, and startup automation scripts, conducted engineering audit and system debugging |
+| Gia Huynh | Data & Testing Support | Assisted with dataset preparation, performed testing on system modules, and helped verify system functionality during development |
+| Lyza Iamrache | Documentation & Validation Support | Contributed to project documentation, helped review system setup instructions, and assisted in validation of system outputs |
